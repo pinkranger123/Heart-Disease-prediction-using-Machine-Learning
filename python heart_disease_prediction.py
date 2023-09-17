@@ -46,7 +46,7 @@ X_scaled = scaler.fit_transform(X_pca)
 # The dataset is split into training and testing sets.
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
 
-# Resampling, which is optional and addresses class imbalance, is carried out.
+# Resampling, which addresses class imbalance, is carried out.
 smote = SMOTE(random_state=42)
 X_resampled, y_resampled = smote.fit_resample(X_train, y_train)
 
