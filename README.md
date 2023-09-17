@@ -67,7 +67,7 @@ less
 
 To execute the code and reproduce the results, follow these steps:
 
-1. [Download the dataset (framingham[1].csv)](link-to-dataset) and place it in the project directory.
+1. Download the dataset [(framingham[1].csv)](link-to-dataset) and place it in the project directory.
 
 2. Run the main script:
 
