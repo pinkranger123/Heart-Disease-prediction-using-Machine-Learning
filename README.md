@@ -1,5 +1,4 @@
 # Heart-Disease-prediction-using-Machine-Learning
-Heart Disease prediction using Machine Learning
 
 Welcome to the Heart Disease Prediction project! This project aims to predict the 10-year risk of coronary heart disease (CHD) based on a given dataset using various machine learning models.
 
