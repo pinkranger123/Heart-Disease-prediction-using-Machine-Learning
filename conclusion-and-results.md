@@ -67,4 +67,4 @@ For predicting heart disease based on both accuracy and efficiency, the followin
 
 Given these considerations, if a balance between accuracy and efficiency is prioritized, Logistic Regression is often a solid choice. It provides reasonably good accuracy while being computationally efficient. However, the actual performance can vary depending on the specific characteristics of the dataset. It's also essential to consider other factors mentioned earlier, such as interpretability and computational resources.
 
-Please keep in mind that the best model may vary depending on the unique properties of the dataset and the specific requirements of the application. It's always a good practice to experiment with multiple models and fine-tune hyperparameters to determine the optimal choice for the specific case.
+The best model may vary depending on the unique properties of the dataset and the specific requirements of the application. It's always a good practice to experiment with multiple models and fine-tune hyperparameters to determine the optimal choice for the specific case.
