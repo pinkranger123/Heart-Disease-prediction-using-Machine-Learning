@@ -47,7 +47,7 @@
 
 ## Model Suitability:
 
-For predicting heart disease based on both accuracy and efficiency, the following models can be considered:
+For predicting heart disease based on both accuracy and efficiency, we have considered the following models:
 
 **Logistic Regression:**
 - *Accuracy:* Logistic Regression typically provides reasonable accuracy and is a good starting point for binary classification tasks like predicting heart disease.
