@@ -24,7 +24,7 @@ This project utilizes machine learning techniques to predict the 10-year risk of
 
 4. **Train-Test Split:** Splitting the dataset into training and testing sets.
 
-5. **Resampling:** (Optional) Addressing class imbalance using the Synthetic Minority Over-sampling Technique (SMOTE).
+5. **Resampling:** Addressing class imbalance using the Synthetic Minority Over-sampling Technique (SMOTE).
 
 6. **Model Pipeline:** Training and evaluating multiple machine learning models, including Logistic Regression, Support Vector Machine, Decision Tree, and K-Nearest Neighbors.
 
